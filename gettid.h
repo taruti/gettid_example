@@ -1,0 +1,2 @@
+unsigned long cgettid(void);
+
